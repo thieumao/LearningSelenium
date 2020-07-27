@@ -2,12 +2,12 @@
 
 Setup:
 
-npm install -g chromedriver
+- npm install -g chromedriver
 
-npm install
+- npm install
 
 Run test:
 
-npm test
+- npm test
 
 It will run all files with extension: .test.js
